@@ -1,0 +1,1 @@
+# javascript_methods_all_reduce
